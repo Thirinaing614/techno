@@ -2,7 +2,7 @@
 
 Servo servo1;                // creating servo object
 int joystick_x = A0;              // joystick x direction pin                                          
-                                                      
+int testgit = 0;                                                      
 int pos_x;                   // declaring variable to stroe horizontal value
 
 int servo1_pos=90;          // storing servo position
